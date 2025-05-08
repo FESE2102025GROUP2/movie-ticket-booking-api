@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "group2_user",
+    "password": "b;fcTv%ef^!W=P)-5V}~",
+    "database": "group2_db",
+    "port": 3306,
+    "host": "34.124.174.97",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
